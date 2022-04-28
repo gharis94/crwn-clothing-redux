@@ -1,0 +1,6 @@
+export const CART_TYPE ={
+    TOGGLE:"TOGGLE",
+    CART_ITEM:"CART_ITEM",
+    CART_COUNT:"CART_COUNT",
+    CART_TOTAL:"CART_TOTAL"
+};
